@@ -1,0 +1,3 @@
+useremail;password;expected_error
+johnsina@gmail.com;giga123;Invalid email or password.
+johnsina11@gmail.com;Passw@rd1;Invalid email or password.
